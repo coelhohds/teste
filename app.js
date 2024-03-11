@@ -10,12 +10,12 @@ function consoleBotao(){
 }
 
 function alertaBotao(){
-    alert('Eu amo JS');
+    alert('Eu não gosto de JS');
 }
 
 function promptBotao(){
     let cidade = prompt('Escreva uma cidade do Brasil');
-    alert(`Estive em ${cidade} e lembrei de você`)
+    alert(`Estive em ${cidade} e lembrei de você.`)
 }
 
 function somaBotao() {
